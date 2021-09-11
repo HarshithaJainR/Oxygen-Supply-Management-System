@@ -1,0 +1,2 @@
+# Oxygen-Supply-Management-System
+A File Structure project which is used to store the record and data of the oxygen supplied by oxygen supply agencies. Here the user maintains a detailed record on oxygen supplied by them to various hospitals/health authorities.Admin is allowed to perform all basic  operations. For our consideration we have assumed our supplier supply four capacities of medical oxygen cylinders.
